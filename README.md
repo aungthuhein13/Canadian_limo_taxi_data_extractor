@@ -261,21 +261,6 @@ python alberta_limo_extractor.py --api-key YOUR_API_KEY --rural-only --out alber
 - Price point analysis (where available)
 - Service area optimization
 
-## 📞 Support & Contribution
-
-### Issues
-
-- Report bugs through GitHub issues
-- Include error messages and configuration details
-- Provide sample data when possible
-
-### Contributing
-
-- Fork the repository
-- Create feature branches
-- Submit pull requests with detailed descriptions
-- Follow existing code style and documentation patterns
-
 ## 📄 License
 
 This project is open source. Please respect Google Places API terms of service and rate limits when using these scripts.
